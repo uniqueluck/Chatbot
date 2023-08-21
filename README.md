@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 # npm install react-simple-chatbot styled-components --save
-#  npm install semantic-ui-react
+# change code in app.js file
+# npm install semantic-ui-react
 # npm start
 
 
