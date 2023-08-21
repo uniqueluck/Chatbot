@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 # npm install react-simple-chatbot styled-components --save
 # change code in app.js file
+# Remove Strict mode line from index.js
 # npm install semantic-ui-react
 # npm start
 
